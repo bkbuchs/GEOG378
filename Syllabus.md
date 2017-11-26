@@ -3,11 +3,11 @@
 
 Instructor: Prof. Song Gao
 
-[Email:](song.gao@wisc.edu)
+[Email](song.gao@wisc.edu)
 
 Teaching Assistant: Yuying Chen
 
-[Email:](chen449@wisc.edu)
+[Email](chen449@wisc.edu)
 
 ## Overview
 Geography 378 (GEOG378) will introduce students to the scripting and programming tools and
@@ -70,7 +70,7 @@ There is no final exam or other summary activity for this course.
 60 ~ 69.99 | D | (Poor) 1|
 < 60 |F | (Failure) 0|
 
-[*More information:*](https://registrar.wisc.edu/grades_and_gpa.htm)
+[*More information*](https://registrar.wisc.edu/grades_and_gpa.htm)
 
 ## Course Outline (2018 Spring)
 
@@ -86,6 +86,7 @@ concepts (9/12, 9/14)
   * Lesson 3: Functions (9/19, 9/21)
   * Lesson 4: Flow control (9/26, 9/28)
   * Lab 2: Functions and containers (9/27)
+
 **Module 2:** Python Advanced Concepts
   * Lesson 5: Containers (10/3, 10/5)
   * Lesson 6: Copies, reading and writing files
@@ -96,6 +97,7 @@ concepts (9/12, 9/14)
   * Lesson 9: Plotting with Python (10/24)
   * Lab 4: Python classes and plotting (10/25)
   * Lesson 10: Command line & scripting (10/26)
+
 **Module 3:** Python for GIS
   * Lesson 11: Raster Processing with GDAL (10/31, 11/2)
   * Lab 5: GDAL and Python (11/8)
